@@ -1,0 +1,52 @@
+{
+  "brand": "Trabajos San Cosme",
+  "short": "TSC",
+  "tagline": "Medicina · Construcción · Comunidad",
+  "year": 2025,
+  "edition": "Curacaví",
+  "dates": {
+    "trabajos": "10–11 de julio 2026",
+    "policlinico": "11–12 de julio 2026"
+  },
+  "leaders": [
+    { "name": "Mariana Gatica", "role": "Jefa General", "year": "5to año Medicina" },
+    { "name": "Valentina Delgado", "role": "Jefa General", "year": "5to año Medicina" }
+  ],
+  "kpis": [
+    { "value": 10, "suffix": "+", "label": "Años de trayectoria" },
+    { "value": 150, "suffix": "+", "label": "Voluntarios" },
+    { "value": 300, "suffix": "+", "label": "Pacientes atendidos" },
+    { "value": 5, "suffix": "", "label": "Casas construidas" }
+  ],
+  "pillars": [
+    {
+      "icon": "🏥",
+      "name": "Salud",
+      "color": "#2563eb",
+      "desc": "Policlínico de atención gratuita a familias vulnerables con estudiantes de Medicina de la UAndes supervisados por médicos."
+    },
+    {
+      "icon": "🏗️",
+      "name": "Construcción",
+      "color": "#0ea5e9",
+      "desc": "Instalación de viviendas prefabricadas progresivas en sectores rurales de alto riesgo social, en alianza con Fundación Vivienda."
+    },
+    {
+      "icon": "🤝",
+      "name": "Comunidad",
+      "color": "#6366f1",
+      "desc": "Actividades de integración y apoyo social a las familias beneficiarias y sus comunidades durante todo el proceso."
+    }
+  ],
+  "innovation": {
+    "title": "Innovación 2025",
+    "old": { "size": "19 m²", "label": "Vivienda básica", "features": ["Estructura básica", "Sin aislación térmica", "Forrado externo por TSC aparte"] },
+    "new": { "size": "24 m²", "label": "Vivienda progresiva", "features": ["Aislación térmica incluida", "Paneles SmartPanel", "Kit eléctrico completo", "Mejores terminaciones interiores"] }
+  },
+  "campaign": {
+    "name": "Dona tu Consulta",
+    "target": "Clínica San Carlos de Apoquindo · Red UC Christus",
+    "model_cua": "Los alumnos de 5to año visitan a los médicos en sus consultas, entregan un PDF que firman y timbran. La donación se descuenta de sus honorarios y contabilidad transfiere los fondos.",
+    "model_uc": "Los alumnos de 5to año visitan personalmente los consultorios con máquinas de pago POS para realizar la transferencia en el acto — sin papeles, sin burocracia, sin trabajo extra para la clínica."
+  }
+}
